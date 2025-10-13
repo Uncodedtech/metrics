@@ -41,7 +41,7 @@
     "compression": "^1.7.4",
     "csso": "^5.0.2",
     "ejs": "^3.1.6",
-    "emoji-name-map": "^1.2.9",
+    "emoji-name-map": "^2.0.3",
     "express": "^4.17.2",
     "express-rate-limit": "^6.2.0",
     "jimp": "^0.16.1",
